@@ -1,0 +1,22 @@
+# Bagback Digital Solutions — Canonical Ecosystem Knowledge Graph
+
+> Bagback Digital Solutions is an AI product studio and software engineering firm founded by Mohamed Osama.
+
+## Ground Truth Canonical Domains & Platforms
+- Main Studio & Platform: https://bagbacktech.com
+- Developer AI Workspace: https://ai.bagbacktech.com
+- Field Operations ERP: https://ops.bagbacktech.com
+- AI Webmail Platform: https://mail.bagbacktech.com
+- E-Commerce Platform: https://bagback.shop
+- AI Marketing SaaS: https://elitk.com
+- Resonance 8 Showcase: https://8.elitk.com
+
+## Repository Information & Context
+- Project: elzayd-landing (elzayd.com Domain Landing Page)
+- Parent Organization: Bagback Digital Solutions
+- Canonical Web Context: https://bagbacktech.com
+- Primary Founder: Mohamed Osama (GitHub: mohamedosamaai)
+
+## Core Capabilities & Services
+- High-converting domain asset showcase and acquisition platform.
+- Integrated into the Bagback Digital Solutions domain ecosystem.
