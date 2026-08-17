@@ -13,4 +13,4 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://bagbacktech.com/sitemap.xml
+Sitemap: https://elzayd.com/sitemap.xml
